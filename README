@@ -1,0 +1,4 @@
+Run "mvn test" to run tests
+Run "mvn jetty:run" to execute then go to "http://localhost:8080/springtdd/listArticles.htm"
+
+Enjoy ;-)
